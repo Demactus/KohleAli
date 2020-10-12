@@ -37,6 +37,7 @@ const Header = ({ siteTitle }) => (
                 <Link className="nav-link" to="/contact-us">Contact</Link>
               </li>
             </ul>
+           {/* 
             <div className="header-cart">
               <Link className="Header__summary snipcart-summary snipcart-checkout" to="#">
                 <i className="fas fa-cart-plus"></i>
@@ -49,8 +50,9 @@ const Header = ({ siteTitle }) => (
                 data-item-image="/assets/images/starry-night.jpg"
                 data-item-name="The Starry Night">
                 Add to cart
-              </button> */}
+              </button> 
             </div>
+*/}
           </nav>
         </div>
       </div>

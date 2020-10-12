@@ -4,23 +4,21 @@ import SEO from "../components/seo"
 
 class About extends React.Component {
     render() {
-        return ( <
-            Layout >
+        return ( <Layout >
             <SEO title="About" keywords={[`gatsby`, `About`, `react`]} /> <
             div className = "site-About" >
             <div className="container">
             <div className="row">
                 <div className="col-sm-12">
                     <h2>About Us</h2>
-                    <p>This Started created for Ecommerce site with Gatsby + Contentful and snipcart</p>
-                    <p><a href="https://rohitgupta.design/oneshopper-gatsby-site" target="_blank" rel="noopener noreferrer">https://rohitgupta.design/oneshopper-gatsby-site</a></p>
+                    <p>This Started created for Ecommerce site</p>
                     <h2>Author</h2>
                     <div class="row">
                         <div class="col-sm-2">
-                            <img src="https://images.ctfassets.net/hwhhx381e090/5IlJCTvfaBL5TZ1U56ykpb/098bdd3b3f918aa29708f28fec7fdde9/rohitgupta.jpg?w=200&h=200&q=50&fit=fill" alt="Rohit Gupta" />
+                            <img src="https://shop.noch.de/media/catalog/product/1/1/11460scr_d9f6dbdd9ea5c17_1_.jpg?w=200&h=200&q=50&fit=fill" alt="Kohle Bild" />
                         </div>
                         <div class="col-sm-8">
-                            <h2 class="mb-1">Rohit Gupta</h2>
+                            <h2 class="mb-1">Kohle Ali</h2>
                             <p class="mb-0">
                                 <a href="https://rohitgupta.netlify.app/" target="_blank" rel="noopener noreferrer">Website</a>
                             </p>
@@ -43,37 +41,12 @@ class About extends React.Component {
                         <li>Index pages design with Latest Post, Latest Blog and Deal of week and Banner.</li>
                         <li>So many other Good features</li>
                     </ul>
-                    <h2>Setup</h2>
-                    <h3>Create a Gatsby site.</h3>
-                    <p>Use the Gatsby CLI to Clone this site.</p>
-                    <code>
-                        # Clone this Repositories<br></br>
-                        gatsby new OneShopper https://github.com/Rohitguptab/OneShopper.git
-                    </code>
-                    <p>Checkout my below blog how to Import and Export data from ContentFul</p>
-                    <p><a href="https://rohitgupta.netlify.app/import-and-export-data-with-contentful-cli" target="_blank" rel="noopener noreferrer">https://rohitgupta.netlify.app/import-and-export-data-with-contentful-cli</a></p>
-                    <h3>Start developing.</h3>
-                    <p>Navigate into your new site’s directory and start it up.</p>
-                    <code>
-                        cd OneShopper<br></br>
-                        npm install<br></br>
-                        gatsby develop
-                    </code>
-                    <h3>Setup your Own Configure Projects.</h3>
-                    <p>Enter your own key</p>
-                    <strong>ContentFul:</strong>
-                    <ul>
-                        <li>spaceId = Key</li>
-                        <li>accessToken = Key</li>
-                    </ul>
-                    <strong>snipcart:</strong>
-                    <ul>
-                        <li>snipcart = Key</li>
-                    </ul>
+                   
+                    
                 </div>
             </div>
-        </div> < /div> </
-            Layout >
+        </div> < /div> 
+        </Layout >
         )
     }
 }
