@@ -20,16 +20,16 @@ class About extends React.Component {
                         <div class="col-sm-8">
                             <h2 class="mb-1">Kohle Ali</h2>
                             <p class="mb-0">
-                                <a href="https://rohitgupta.netlify.app/" target="_blank" rel="noopener noreferrer">Website</a>
+                                <a href="https://kohle-ali.netlify.app/" target="_blank" rel="noopener noreferrer">Website</a>
                             </p>
                             <p class="mb-0">
-                                <a href="mailto:rohitguptab33@gmail.com">Gmail</a>
+                                <a href="mailto:jan.niklas.martens@mni.thm.de">Gmail</a>
                             </p>
                             <p class="mb-0">
-                                <a href="https://github.com/rohitguptab" target="_blank" rel="noopener noreferrer">Github</a>
+                                <a href="https://github.com/demactus" target="_blank" rel="noopener noreferrer">Github</a>
                             </p>
                             <p class="mb-0">
-                                <a href="https://twitter.com/_rohitguptab" target="_blank" rel="noopener noreferrer">Twitter</a>
+                                <a href="https://twitter.com/demactus" target="_blank" rel="noopener noreferrer">Twitter</a>
                             </p>
                         </div>
                     </div>
