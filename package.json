@@ -1,7 +1,7 @@
 {
   "name": "OneShopper",
   "private": true,
-  "description": "E-Commerce site with Gatsby and React",
+  "description": "Qualitätskohle aus der Türkei",
   "version": "0.1.0",
   "author": "Rohit Gupta <rohitguptab33@gmail.com>",
   "dependencies": {
