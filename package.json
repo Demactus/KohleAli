@@ -3,7 +3,7 @@
   "private": true,
   "description": "Qualitätskohle aus der Türkei",
   "version": "0.1.0",
-  "author": "Rohit Gupta <rohitguptab33@gmail.com>",
+  "author": "Jan Martens <jan.niklas.martens@mni.thm.de>",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "disqus-react": "^1.0.5",
